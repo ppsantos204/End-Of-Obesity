@@ -1,0 +1,12 @@
+img{
+    width:200px;
+    border:20px;
+    border-color:navy;
+    border-style:solid;
+    }
+    
+    h1{
+        background-color:blue;
+        text-align:center;
+        }
+    body{ background-color:red;}
